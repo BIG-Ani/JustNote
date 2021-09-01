@@ -8,6 +8,14 @@ this is the first update from dev1
 
 first update from dev2
 
+<<<<<<< HEAD
 second update from dev1
 
 third update from dev1
+=======
+second update from dev2
+
+third update from dev2
+
+fouth update from dev2
+>>>>>>> 1ad38a303846e96ebc145fe2662374ea53e84019
